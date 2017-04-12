@@ -1,7 +1,7 @@
 import csv
 import sys
  
-csvoutfile = open("C:/Users/apeterson/Desktop/uptime output.csv", 'wt', encoding='utf8',newline='')
+csvoutfile = open("filelocation.csv", 'wt', encoding='utf8',newline='')
 outFile = csv.writer(csvoutfile, delimiter=",")
  
 f = open("C:/Users/apeterson/Desktop/uptimeUpdated1.csv", 'rt')
