@@ -4,7 +4,7 @@ import sys
 csvoutfile = open("filelocation.csv", 'wt', encoding='utf8',newline='')
 outFile = csv.writer(csvoutfile, delimiter=",")
  
-f = open("C:/Users/apeterson/Desktop/uptimeUpdated1.csv", 'rt')
+f = open("outputfile.csv", 'rt')
  
 reader = csv.reader(f,delimiter=',')
  
