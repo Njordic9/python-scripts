@@ -11,6 +11,7 @@ This repository contains:
 
 - [CSVParsing](#csvparsing)
 - [AutoYumUpdater](#autoyumupdater)
+- [AnsibleShowVersion](#ansibleshowversion)
 
 ## CSVParsing
 
@@ -19,6 +20,10 @@ CSV parsing script, utilizes the csv library within Python.  Is a basic tool on 
 ## AutoYumUpdater
 
 Utilizing keyring library, this script is a basic command line script you can set to auto update all your applications within Linux.
+
+## AnsibleShowVersion
+
+With Ansible, this specific playbook connects specifically to Cisco ASA's, and performs the "show version" command and retrieves the output.
 
 ## Badge
 
