@@ -1,0 +1,19 @@
+---
+- hosts: host
+  gather_facts: no
+  connection: ssh
+  vars:
+    cli:
+      host: "1.1.1.1"
+      username: "username"
+      password:
+      authorize: yes
+      auth_pass: "password"
+  tasks:
+  - name: Retrieve device configuration for ASA
+    asa_command:
+      provider: "{{ cli }}"
+      commands:
+        - show version
+      timeout: 60
+    register: output
