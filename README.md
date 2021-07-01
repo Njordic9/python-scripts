@@ -1,10 +1,10 @@
 # Python Scripts
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Njordic9/pythonscripts_readme)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Njordic9/README)
 
 This repository contains:
 
-1. [A list](README.md) of all the adhoc or one-off scripts I've created or utilize.
+1. [A list](python-scripts) of all the adhoc or one-off scripts I've created or utilize.
 2. Some basic Readme formats you can utilize.
 
 ## Table of Contents
