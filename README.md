@@ -4,7 +4,7 @@
 
 This repository contains:
 
-1. [A list](pythonscripts_readme.md) of all the adhoc or one-off scripts I've created or utilize.
+1. [A list](README.md) of all the adhoc or one-off scripts I've created or utilize.
 2. Some basic Readme formats you can utilize.
 
 ## Table of Contents
