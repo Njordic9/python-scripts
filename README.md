@@ -4,7 +4,7 @@
 
 This repository contains:
 
-1. [A list](python-scripts) of all the adhoc or one-off scripts I've created or utilize.
+1. [A list](https://github.com/Njordic9/python-scripts) of all the adhoc or one-off scripts I've created or utilize.
 2. Some basic Readme formats you can utilize.
 
 ## Table of Contents
