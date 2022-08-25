@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 import sys
 
-with open('/Users/apeterson/Downloads/CommonNameIssuedCerts.csv', 'r') as csv1, open('/Users/apeterson/Downloads/CNsSplunkCHHQ1.csv', 'r') as csv2:  # Import CSV files
+with open('File1.csv', 'r') as csv1, open('File2.csv', 'r') as csv2:  # Import CSV files
     import1 = csv1.readlines()
     import2 = csv2.readlines()
 
