@@ -7,7 +7,7 @@ with open('File1.csv', 'r') as csv1, open('File2.csv', 'r') as csv2:  # Import C
     import2 = csv2.readlines()
 
 # Create CSV file with differences
-with open('/Users/apeterson/Downloads/data_diff.csv', 'w') as outFile:
+with open('data_diff.csv', 'w') as outFile:
     for row in import2:
         if row not in import1:
             outFile.write(row)
